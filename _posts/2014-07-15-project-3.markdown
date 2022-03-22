@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-01-03
+img: miccomp.png
+alt: phytotron
+project-date: January 2020
+collab: Colin Averill, Jenny Bhatnagar, Zac Freedman, & Ember Morrissey
+people: Stephanie Juice & lab alumni Chris Walter
+description: Ecosystem models are limited by information about how microbial communities impact nutrient cycling. Until now, microbial communities have been treated as a 'black box' through which nutrients flow. We designed a competition model that simulates the dynamics of microbial groups that vary in their ability to decompose different soil organic matter substrates. Importantly, the model is designed to be able to ingest microbial -omics data for parameterization and validation. We are currently testing the model at the Fernow Experimental Forest by challenging it reproduce differences in soil carbon between the nitrogen fertilized and unfertilized watershed. 
+---
