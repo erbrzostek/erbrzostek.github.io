@@ -4,7 +4,7 @@ modal-id: 6
 date: 2014-01-06
 img: sus.png
 alt: sustainableag
-project-date: October 2019
+project-date: December 2017
 collab: The Elizabeth’s Woods Nature Preserve & the West Virginia Land Trust
 people: Lab alumni, Nanette Raczka
 description: We have recently finished an experiment that excluded nearly all the rainfall from a temperate forest stand in Morgantown, WV. The experiment tested how the extreme drought conditions predicted from climate change will change tree physiology and microbial function. Our findings show that forest stands dominated by oaks were more resilient than those dominated by maples. Specifically, oaks were able to sustain high rates of N-mineralization by increasing carbon transfers to the rhizosphere. By contrast, maples increased their ability to scavenge for nitrogen with roots, yet their N-mineralization rates declined.
