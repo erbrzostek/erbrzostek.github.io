@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-01-06
-img: forcc.png
+img: sus.png
 alt: forest climate change
 project-date: June 2016
 collab: The Elizabeth’s Woods Nature Preserve & the West Virginia Land Trust
