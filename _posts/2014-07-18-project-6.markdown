@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-01-06
+img: sus.png
+alt: sustainable
+project-date: October 2019
+people: Zoe Pagliaro, Joanna Ridgeway, & Stephanie Juice
+collab: The Center for Advanced Bioenergy & Bioproducts at University of Illinois
+description: The sustainability of bioenergy production relies on growing feedstocks that retain nutrients and enhance soil carbon. We use an integrated model-experiment approach to refine our predictive understanding of how plant-microbial interactions impact soil C and N cycling in bioenergy systems. Recently, we released our new model FUN-BioCROP which is the first bioenergy ecosystem model to simulate explicit microbes and their interactions with plants in the rhizosphere. We continue to refine the model across three fronts: 1) using experiments to parameterize microbial traits, 2) develop an independent microbial-explicit N cycle, and 3) examine model predictions of global change responses. 
+---
