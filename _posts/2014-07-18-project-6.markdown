@@ -6,6 +6,6 @@ img: sus.png
 alt: sustainableag
 project-date: December 2017
 collab: The Center for Advanced Bioenergy & Bioproducts
-people: Lab alumni, Nanette Raczka
+people: Zoe Pagliaro, Joanna Ridgeway, & Stephanie Juice
 description: We have recently finished an experiment that excluded nearly all the rainfall from a temperate forest stand in Morgantown, WV. The experiment tested how the extreme drought conditions predicted from climate change will change tree physiology and microbial function. Our findings show that forest stands dominated by oaks were more resilient than those dominated by maples. Specifically, oaks were able to sustain high rates of N-mineralization by increasing carbon transfers to the rhizosphere. By contrast, maples increased their ability to scavenge for nitrogen with roots, yet their N-mineralization rates declined.
 ---
