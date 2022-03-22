@@ -68,7 +68,7 @@ people:
   pic: 2
   position: Currently Research Microbiologist at USDA ARS
   social:
-    - title: website
+    - title: rss
       url: https://www.ars.usda.gov/people-locations/person?person-id=55740
     - title: 
       url: 
@@ -90,7 +90,7 @@ people:
   pic: 7
   position: Currently Data Scientist
   social:
-    - title: website
+    - title: rss
       url: https://chriswalter.info
     - title: github
       url: https://github.com/waltscience
