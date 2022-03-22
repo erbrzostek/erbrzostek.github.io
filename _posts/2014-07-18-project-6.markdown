@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2014-01-06
 img: sus.png
-alt: forest climate change
+alt: sustainable
 project-date: June 2016
 collab: The Elizabeth’s Woods Nature Preserve & the West Virginia Land Trust
 people: Lab alumni, Nanette Raczka
