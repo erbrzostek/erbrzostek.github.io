@@ -1,0 +1,132 @@
+# Site settings
+title: The Brzostek Lab
+email: erbrzostek@mail.wvu.edu
+url: https://brzosteklab.github.io
+description: "The Brzostek Lab at West Virginia University."
+keywords: "ecology, ecosystems, modeling, soil, biogeochemistry"
+skills: "Ecology - Biogeochemistry - Modeling"
+meta_author: Walter Chris
+
+# Team names, titles and social links
+people:
+- name: Eddie Brzostek, PhD
+  pic: 1
+  position: Principal Investigator
+  social:
+    - title: link
+      url: https://biology.wvu.edu/faculty-and-staff/faculty/edward-brzostek
+    - title: evelope
+      url: mailto:erbrzostek@mix.wvu.edu
+
+- name: Stephanie Juice, PhD
+  pic: 3
+  position: Postdoctoral Researcher
+  social:
+    - title: envelope
+      url: mailto:stephanie.juice@mail.wvu.edu
+      
+- name: Emel Kangi
+  pic: 4
+  position: PhD Student
+  social:
+    - title: envelope
+      url: mailto:emkangi@mix.wvu.edu
+
+- name: Zoe Pagliaro
+  pic: 8
+  position: PhD Student
+  social:
+    - title: envelope
+      url: mailto:zep00003@mix.wvu.edu
+      
+- name: Joanna Ridgeway
+  pic: 6
+  position: PhD Student
+  social:
+    - title: envelope
+      url: mailto:jrridgeway@mix.wvu.edu
+
+- name: Joe Carrara, PhD (alumni)
+  pic: 2
+  position: Currently Research Microbiologist at USDA ARS
+  social:
+    - title: link
+      url: https://www.ars.usda.gov/people-locations/person?person-id=55740
+
+- name: Nanette Razcka, PhD (alumni)
+  pic: 5
+  position: Currently Postdoctoral Researcher at Nanyang Technological University
+  social:
+    - title: podcast
+      url: https://www.thedaonline.com/podcasts/gradlife_601_podcast/gradlife-601-research-tips-from-dr-nanette-raczka/article_512deb10-8580-11ec-921c-6301a6932805.html 
+
+- name: Chris Walter, PhD (alumni)
+  pic: 7
+  position: Currently Data Scientist
+  social:
+    - title: link
+      url: https://chriswalter.info
+    - title: github
+      url: https://github.com/waltscience
+    - title: linkedin
+      url: www.linkedin.com/in/chrisalanwalter
+
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 336666 #80B3FF
+  primary-rgb: "51, 102, 102" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A 
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: The Brzostek Lab
+  location: West Virginia University
+  social: Around the Web
+  credits: Collaborators
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/brzosteklab?lang=en
+  - title: github
+    url: https://github.com/BrzostekEcologyLab
+  - title: google
+    url: https://scholar.google.com/citations?user=hGEoHncAAAAJ&hl=en
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Life Sciences Building, PO Box 6057
+  - line: Morgantown, West Virginia 26506
+
+# Credits content
+credits: 'We are affiliated with <a href="https://cabbi.bio"> The Center for Advanced Bioenergy & Bioproducts</a> and <a href="http://www.as.wvu.edu/fernow/index.html">The Fernow Experimental Forest</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
