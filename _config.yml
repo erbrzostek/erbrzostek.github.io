@@ -1,0 +1,149 @@
+# Site settings
+title: The Brzostek Lab
+email: erbrzostek@mail.wvu.edu
+url: https://brzosteklab.github.io
+description: "The Brzostek Lab at West Virginia University."
+keywords: "ecology, ecosystems, modeling, soil, biogeochemistry"
+skills: "Ecology - Biogeochemistry - Modeling"
+meta_author: Walter Chris
+
+# Team names, titles and social links
+people:
+- name: Eddie Brzostek
+  pic: 1
+  position: Principal Investigator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/edward-brzostek-09a19445/
+    - title:
+      url: #
+    - title:
+      url: #
+
+- name: Joe Carrara
+  pic: 2
+  position: PhD Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Stephanie Juice
+  pic: 3
+  position: Postdoctoral Researcher
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Emel Kangi
+  pic: 4
+  position: Masters Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Nanette Razcka
+  pic: 5
+  position: PhD Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Joanna Ridgeway
+  pic: 6
+  position: PhD Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Chris Walter
+  pic: 7
+  position: Postdoctoral Researcher
+  social:
+    - title: rss
+      url: https://chriswalter.info
+    - title: twitter
+      url: twitter.com/waltscience
+    - title: linkedin
+      url: www.linkedin.com/in/waltscience
+
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 336666 #80B3FF
+  primary-rgb: "51, 102, 102" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A 
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: The Brzostek Lab
+  location: West Virginia University
+  social: Around the Web
+  credits: Collaborators
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/brzosteklab?lang=en
+  - title: github
+    url: https://www.researchgate.net/lab/Edward-R-Brzostek-Lab
+  - title: linkedin
+    url: https://www.linkedin.com/in/edward-brzostek-09a19445/
+  - title: google-plus
+    url: https://scholar.google.com/citations?user=hGEoHncAAAAJ&hl=en
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Life Sciences Building, PO Box 6057
+  - line: Morgantown, West Virginia 26506
+
+# Credits content
+credits: 'We are affiliated with <a href="https://cabbi.bio"> The Center for Advanced Bioenergy & Bioproducts</a> and <a href="http://www.as.wvu.edu/fernow/index.html">The Fernow Experimental Forest</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

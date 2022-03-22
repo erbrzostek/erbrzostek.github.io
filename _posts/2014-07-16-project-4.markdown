@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-01-04
+img: pmi.png
+alt: plantmicrobe
+project-date: June 2015
+collab: Mary Beth Adams, Bill Peterjohn, The Fernow Experimental Forest in West Virginia & the Bear Brook Watershed in Maine
+people: Joe Carrara, Chris Walter
+description: Forests in the Eastern U.S. have received chronically high levels of nitrogen pollution - a consequence of coal burning. Nitrogen pollution has altered forests by changing how fast trees grow, the composition of plant species, and how much carbon they can store. All of these impacts have fundamentally disrupted plant and microbial interactions. We study this disruption in experimental forests in both Maine and West Virginia to determine whether plant-microbial interactions will remain decoupled as forests are continue to be threatened by greater environmental change in the future.
+---

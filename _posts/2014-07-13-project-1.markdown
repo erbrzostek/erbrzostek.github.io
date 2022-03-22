@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-01-01
+img: safe.png
+alt: outreach
+project-date: May 2017
+collab: The Elizabeth’s Woods Nature Preserve & the West Virginia Land Trust
+people: Eddie Brzostek, Joe Carrara, Nanette Raczka & Joanna Ridgeway
+description: Our outreach program is designed to make our research accessible to our local and regional communities, while also providing a chance for people to interact with our experiments in the field. We hold two annual outreach events designed to expose children and adults to all aspects of ecosystems science.
+---
