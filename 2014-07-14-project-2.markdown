@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-01-02
+img: mcue.png
+alt: mcue
+project-date: June 2018
+people: Zoe Pagliaro, Joanna Ridgeway & alumni, Joe Cararra & Nanette Raczka
+collab: Ember Morrissey
+description: Microbial carbon use efficiency and turnover are keystone traits that appear to control the magnitude and stabilization mechanism of soil carbon. We are currently investigating the extent to which differences in plant traits, nutrient status, and climate feedback on these keystone microbial traits. Using isotope tracing and natural abundance methods, we link microbial physiology with the flavor of soil carbon storage across forest and agricultural ecosystems.
+---
