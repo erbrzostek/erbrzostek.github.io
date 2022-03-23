@@ -46,6 +46,13 @@ people:
     - title: envelope
       url: mailto:jrridgeway@mix.wvu.edu
 
+- name: Kara Allen, PhD (alumni)
+  pic: 9
+  position: Currently Ecosystem Scientist at NZ Landcare Research
+  social:
+    - title: link
+      url: https://www.landcareresearch.co.nz/about-us/our-people/kara-allen
+
 - name: Joe Carrara, PhD (alumni)
   pic: 2
   position: Currently Research Microbiologist at USDA ARS
@@ -69,7 +76,9 @@ people:
     - title: github
       url: https://github.com/waltscience
     - title: linkedin
-      url: www.linkedin.com/in/chrisalanwalter
+      url: https://www.linkedin.com/in/chrisalanwalter
+    - title: rss
+      url: https://www.wvpublic.org/energy-environment/2021-05-13/research-reveals-clean-air-makes-stronger-forests
 
 
 # Google webmaster tools
