@@ -38,10 +38,24 @@ people:
   social:
     - title: envelope
       url: mailto:zep00003@mix.wvu.edu
-      
-- name: Joanna Ridgeway
-  pic: 6
+
+- name: Hannah DeHetre
+  pic: 11
   position: PhD Student
+  social:
+    - title: envelope
+      url: mailto:hd00024@mix.wvu.edu
+
+- name: Dominick Cifelli
+  pic: 10
+  position: MS Student
+  social:
+    - title: envelope
+      url: mailto:dac0009@mix.wvu.edu
+      
+- name: Joanna Ridgeway (alumni)
+  pic: 6
+  position: Currently Postdoctoral Researcher at Dartmouth College
   social:
     - title: envelope
       url: mailto:jrridgeway@mix.wvu.edu
@@ -69,7 +83,7 @@ people:
 
 - name: Chris Walter, PhD (alumni)
   pic: 7
-  position: Currently Soil Carbon Research Engineer at Sylvera
+  position: Currently Soil Carbon Lead at Sylvera
   social:
     - title: link
       url: https://chriswalter.info
